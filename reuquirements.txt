@@ -1,0 +1,8 @@
+requests
+itertools
+bs4
+urllib3
+time
+logging
+csv
+os
