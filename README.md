@@ -12,4 +12,4 @@ a simple python scraper for ipv4info.com and ipv4info.ru, needed to collect a da
 
 # Todo 
 
-- [] add proxy support.
+- [ ] add proxy support.
